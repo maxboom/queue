@@ -16,6 +16,9 @@ cd skeleton/
 ```bash
 /usr/bin/composer install
 ```
+```bash
+php bin/console d:m:m
+```
 
 ## Usage
 ### Action to send message: http://localhost:9150/mailer
